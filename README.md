@@ -1,4 +1,4 @@
-# Hi there, I'm Bonyyamin 👋
+# Hi there, I'm Bony Yamin 👋
 
 ## About Me
 
@@ -17,14 +17,17 @@
 ## Projects
 
 - [BachMeal](https://github.com/bonyyamin/bachmeal): A Flutter based mobile application for Bachelor's and Employers.
-- [](https://github.com/bonyyamin/project2): A machine learning project using Python and TensorFlow.
-- [Project 3](https://github.com/bonyyamin/project3): A mobile app developed with HTML, CSS, TailWindCSS and JAVASCRIPT.
+- [OpenMartEcom](https://github.com/bonyyamin/VSCODE/tree/main/openimart_v2): A Flutter based ecom app.
+- [Femly](https://github.com/bonyyamin/Femly): Femly-From Wellness to Motherhood, We’re With You.
+- [ThesisWork](https://github.com/bonyyamin/research-work): A machine learning project using Python and TensorFlow.
 
 ## Get in Touch
 
 - 📫 You can reach me at [bonyyamin1997@gmail.com](mailto:bonyyamin1997@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bonyyamin).
+- 📘 Find me on [Facebook](https://facebook.com/bonyyaminn).
 - 🐦 Follow me on [Twitter](https://twitter.com/bonyyamin).
+- 
 
 ## GitHub Stats
 
