@@ -1,4 +1,4 @@
-# Hi there, I'm Bony Yamin 👋Add commentMore actions
+# Hi there, I'm Bony Yamin 👋
 
 # 💫 About Me:
 🌐 I'm a passionate developer with a love for open-source projects.<br>💻 I specialize in Flutter based Mobile Application development particularly Web development with JavaScript and Python.<br>🎓 I hold a degree in Computer Science and have experience in various tech stacks.<br>🚀 I enjoy working on innovative projects and learning new technologies.
