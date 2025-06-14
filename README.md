@@ -169,12 +169,3 @@
   <h3>Thanks for stopping by! Feel free to star ⭐ any repositories you find interesting. 😊</h3>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave">
 </div>
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-<!-- Using platane's snake as a placeholder -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation" />
-
-</div>
