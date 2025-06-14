@@ -153,15 +153,6 @@
 </picture>
 </div>
 
-## 💬 Dev Quote of the Day
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
-</picture>
-</div>
 
 ---
 
