@@ -2,7 +2,7 @@
 
 # Hey there! I'm Bony Yamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Enthusiast;Open+Source+Contributor;Computer+Science+Graduate" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast;Open+Source+Contributor;Computer+Science+Graduate" alt="Typing SVG" /></a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=bonyyamin&label=Profile%20Views&color=0e75b6&style=flat-square" alt="bonyyamin" />
@@ -12,7 +12,7 @@
 
 ---
 
-## 👤 About Me
+## 🙂 About Me
 
 <table>
   <tr>
@@ -28,13 +28,13 @@
         <li>⚡ Fun fact: I believe code is poetry; it should be written for humans first.</li>
       </ul>
     </td>
-    <td>
+<!--     <td>
       <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-    </td>
+    </td> -->
   </tr>
 </table>
 
-## 🌐 Connect with Me
+## 😎 Connect with Me
 
 <p align="center">
   <a href="https://bsky.app/profile/bonyyamin.bsky.social" target="_blank">
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-## 🛠️ Tech Stack & Tools
+## 🙂🔨 Tech Stack & Tools
 
 <details open>
 <summary><b>🔧 Languages & Frameworks</b></summary>
@@ -100,7 +100,7 @@
 </p>
 </details>
 
-## 📊 GitHub Analytics
+## 😋 GitHub Analytics
 
 <div align="center">
 
@@ -123,7 +123,7 @@
 
 </div>
 
-## 📈 Contribution Graph
+## 🤦‍♂️ Contribution Graph
 
 <div align="center">
 <picture>
@@ -133,7 +133,7 @@
 </picture>
 </div>
 
-## 🏆 GitHub Trophies
+## 🧑‍💻🫰 GitHub Trophies
 
 <div align="center">
 <picture>
@@ -143,7 +143,7 @@
 </picture>
 </div>
 
-## 🔝 Top Contributed Repositories
+## 😔 Top Contributed Repositories
 
 <div align="center">
 <picture>
