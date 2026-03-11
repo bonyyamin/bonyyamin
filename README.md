@@ -1,8 +1,30 @@
+Here is an improved version of your GitHub README. I have made it more professional, fixed some mismatched emojis (like the facepalm `🤦‍♂️` and sad face `😔` on your repos/graphs), made your skills instantly visible, and **prominently integrated your portfolio link** in multiple places so recruiters and visitors won't miss it.
+
+### What was improved:
+1. **Added Portfolio Link:** Placed it dynamically in the header, in the "About Me" section, and in the "Connect" badges.
+2. **Fixed Emojis:** Replaced the weird emojis (🤦‍♂️, 😔, 😋) on your headers with professional ones (📈, 🔥, 📊).
+3. **Improved Tech Stack:** Removed the `<details>` tags. Hiding your skills makes recruiters do extra work. They are now beautifully categorized and visible.
+4. **Layout:** Added a clean coding illustration in the "About Me" section to replace the broken commented-out GIF.
+
+---
+
+### Copy and Paste this code into your `README.md`:
+
+```markdown
 <div align="center">
 
 # Hey there! I'm Bony Yamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Flutter+Enthusiast;Open+Source+Contributor;Computer+Science+Graduate" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Portfolio Badge -->
+<a href="https://bonyyamin.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-bonyyamin.vercel.app-02569B?style=for-the-badge" alt="Portfolio" />
+</a>
+
+<br/><br/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=bonyyamin&label=Profile%20Views&color=0e75b6&style=flat-square" alt="bonyyamin" />
@@ -12,15 +34,16 @@
 
 ---
 
-## 🙂 About Me
+## 👨‍💻 About Me
 
 <table>
   <tr>
-    <td>
+    <td width="60%">
       <p>
         I'm a passionate developer with a deep love for creating elegant solutions and contributing to <b>open-source projects</b>. With a degree in Computer Science and a specialization in <b>Flutter</b> and <b>full-stack web development</b>, I enjoy turning complex problems into beautiful, intuitive applications.
       </p>
       <ul>
+        <li>🚀 <b>Portfolio:</b> Check out my latest work at <b><a href="https://bonyyamin.vercel.app">bonyyamin.vercel.app</a></b></li>
         <li>🌐 Specializing in <b>Flutter Mobile & Web Development</b>.</li>
         <li>🔭 Currently working on innovative personal and professional projects.</li>
         <li>🌱 Always learning and exploring new technologies.</li>
@@ -28,15 +51,18 @@
         <li>⚡ Fun fact: I believe code is poetry; it should be written for humans first.</li>
       </ul>
     </td>
-<!--     <td>
-      <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-    </td> -->
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="300" alt="Coding GIF">
+    </td>
   </tr>
 </table>
 
-## 😎 Connect with Me
+## 🤝 Connect with Me
 
 <p align="center">
+  <a href="https://bonyyamin.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://bsky.app/profile/bonyyamin.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
   </a>
@@ -57,11 +83,10 @@
   </a>
 </p>
 
-## 🙂🔨 Tech Stack & Tools
+## 💻 Tech Stack & Tools
 
-<details open>
-<summary><b>🔧 Languages & Frameworks</b></summary>
-<p align="center">
+**Languages & Frameworks**
+<p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -73,21 +98,17 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 </p>
-</details>
 
-<details>
-<summary><b>🗄️ Databases & Cloud</b></summary>
-<p align="center">
+**Databases & Cloud**
+<p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
-</details>
 
-<details>
-<summary><b>⚙️ Software & Tools</b></summary>
-<p align="center">
+**Software & Tools**
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
@@ -98,9 +119,9 @@
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
-</details>
 
-## 😋 GitHub Analytics
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -123,7 +144,7 @@
 
 </div>
 
-## 🤦‍♂️ Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 <picture>
@@ -133,7 +154,7 @@
 </picture>
 </div>
 
-## 🧑‍💻🫰 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 <picture>
@@ -143,7 +164,7 @@
 </picture>
 </div>
 
-## 😔 Top Contributed Repositories
+## 🔥 Top Contributed Repositories
 
 <div align="center">
 <picture>
@@ -160,3 +181,4 @@
   <h3>Thanks for stopping by! Feel free to star ⭐ any repositories you find interesting. 😊</h3>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave">
 </div>
+```
