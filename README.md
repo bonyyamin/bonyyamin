@@ -1,16 +1,3 @@
-Here is an improved version of your GitHub README. I have made it more professional, fixed some mismatched emojis (like the facepalm `🤦‍♂️` and sad face `😔` on your repos/graphs), made your skills instantly visible, and **prominently integrated your portfolio link** in multiple places so recruiters and visitors won't miss it.
-
-### What was improved:
-1. **Added Portfolio Link:** Placed it dynamically in the header, in the "About Me" section, and in the "Connect" badges.
-2. **Fixed Emojis:** Replaced the weird emojis (🤦‍♂️, 😔, 😋) on your headers with professional ones (📈, 🔥, 📊).
-3. **Improved Tech Stack:** Removed the `<details>` tags. Hiding your skills makes recruiters do extra work. They are now beautifully categorized and visible.
-4. **Layout:** Added a clean coding illustration in the "About Me" section to replace the broken commented-out GIF.
-
----
-
-### Copy and Paste this code into your `README.md`:
-
-```markdown
 <div align="center">
 
 # Hey there! I'm Bony Yamin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -181,4 +168,3 @@ Here is an improved version of your GitHub README. I have made it more professio
   <h3>Thanks for stopping by! Feel free to star ⭐ any repositories you find interesting. 😊</h3>
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave">
 </div>
-```
